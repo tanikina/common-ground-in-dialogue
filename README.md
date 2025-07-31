@@ -5,7 +5,8 @@
 [Common_Ground_in_Dialogue_Survey.pdf](https://github.com/tanikina/common-ground-in-dialogue/blob/main/Common_Ground_in_Dialogue_Survey.pdf)
 
 ## 🗟 Annotations
-[survey_annotations.xlsx](https://github.com/tanikina/common-ground-in-dialogue/blob/main/survey_annotations.xlsx)
+[survey_annotations.tsv](https://github.com/tanikina/common-ground-in-dialogue/blob/main/survey_annotations.tsv)
+[grounding_datasets.tsv](https://github.com/tanikina/common-ground-in-dialogue/blob/main/grounding_datasets.tsv)
 
 ## Citation
 
