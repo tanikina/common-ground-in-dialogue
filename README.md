@@ -9,6 +9,8 @@
 
 [grounding_datasets.tsv](https://github.com/tanikina/common-ground-in-dialogue/blob/main/grounding_datasets.tsv)
 
+[dialogue_grounding.bib](https://github.com/tanikina/common-ground-in-dialogue/blob/main/dialogue_grounding.bib)
+
 ## Citation
 
 ```bibtex
